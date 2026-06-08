@@ -1,4 +1,4 @@
-# Data Analysis of OLX-Cars Dataset
+# Car Price Prediction
 
 <p align="center"><img src="https://github.com/AbdullahProjects/Car-Price-Prediction/blob/main/Money.png" width="10%" height="auto"></p>
 
